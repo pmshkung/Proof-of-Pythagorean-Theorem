@@ -17,3 +17,7 @@
 [證明 5](https://mintrabbitplus.com/2020/10/22/%e7%95%a2%e6%b0%8f%e5%ae%9a%e7%90%86-%e8%ad%89%e6%98%8e-5/#more-495)
 ========
 ![image](https://github.com/pmshkung/Proof-of-Pythagorean-Theorem/blob/main/png/right_triangle_005.png)
+
+[證明 6](https://mintrabbitplus.com/2020/11/18/%e7%95%a2%e6%b0%8f%e5%ae%9a%e7%90%86-%e8%ad%89%e6%98%8e-6/#more-523)
+========
+![image](https://github.com/pmshkung/Proof-of-Pythagorean-Theorem/blob/main/png/right_triangle_006.png)
